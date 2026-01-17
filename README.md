@@ -4,4 +4,4 @@ A case for Cannonkeys' [Ortho48 v2](https://cannonkeys.com/products/ortho48). Th
 
 The plate screws into the plate cover, and then the plate is sandwiched between the plate cover and screwed into from the bottom.
 
-![HHKB Case](/SK-Ortho48v2 HHKB.png)
+![HHKB Case](/SK-Ortho48v2%20HHKB.png)
